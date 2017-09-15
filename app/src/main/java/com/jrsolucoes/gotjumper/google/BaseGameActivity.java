@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.google.example.games.basegameutils;
+package com.jrsolucoes.gotjumper.google;
 
 import android.content.Intent;
 import android.os.Bundle;

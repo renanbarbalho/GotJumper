@@ -2,4 +2,11 @@
     <string name="app_name">GotJumper</string>
 
     <string name="title_activity_welcome">WelcomeActivity</string>
+    <string name="license_failed">license_failed</string>
+    <string name="sign_in_failed">sign_in_failed</string>
+    <string name="app_misconfigured">app_misconfigured</string>
+    <string name="gamehelper_unknown_error">gamehelper_unknown_error</string>
+    <string name="gamehelper_sign_in_failed">gamehelper_sign_in_failed</string>
+    <string name="gamehelper_app_misconfigured">gamehelper_app_misconfigured</string>
+    <string name="gamehelper_license_failed">gamehelper_license_failed</string>
 </resources>
