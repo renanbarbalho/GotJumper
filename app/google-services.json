@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "448200943590",
+    "firebase_url": "https://gotjumper-f8f8d.firebaseio.com",
+    "project_id": "gotjumper-f8f8d",
+    "storage_bucket": "gotjumper-f8f8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448200943590:android:49d76622eb47b24d",
+        "android_client_info": {
+          "package_name": "com.jrsolucoes.gotjumper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448200943590-7kud5c9ms03v05hu069j4mrhha8luffj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jrsolucoes.gotjumper",
+            "certificate_hash": "8c31b34d5cf7248840e6061e163e28fc451d5cf9"
+          }
+        },
+        {
+          "client_id": "448200943590-msbikiirrg5ftqts27dfe2cbo8qno3e2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVaST-hNSKAsDL_ejWqXRDLtPoPDt2NPA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448200943590-msbikiirrg5ftqts27dfe2cbo8qno3e2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
